@@ -10,11 +10,7 @@
 * extremely useful
 * waiting for you!
 
-!SLIDE
+!SLIDE burger
 
 # thanks!
 ## redis-db.com
-
-!SLIDE burger
-
-# CAN I HAS REDIZ?
