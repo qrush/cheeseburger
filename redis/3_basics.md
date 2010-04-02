@@ -6,13 +6,15 @@
 
 # history
 
+* REmote DIctionary Server
 * started in 2009
 * @antirez
 * vmware
+* under very heavy development
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
-# installing bullets
+# installing
 
 * `git clone git://github.com/antirez/redis`
 * `make`
