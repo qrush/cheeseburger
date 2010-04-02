@@ -13,9 +13,7 @@
 !SLIDE
 
 # thanks!
-## @qrush
-## nick@quaran.to
-## litanyagainstfear.com
+## redis-db.com
 
 !SLIDE burger
 
