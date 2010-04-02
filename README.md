@@ -1,5 +1,3 @@
-Best when used with [showoff](http://github.com/schacon/showoff).
+BarCampRoc 2010 Presentation.
 
-See it live [on Heroku](http://sfruby-meetup-resque.heroku.com/)!
-
-Chris Wanstrath
+Made with [showoff](http://github.com/schacon/showoff)

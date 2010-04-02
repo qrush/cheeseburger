@@ -1,0 +1,9 @@
+.full-page {
+	margin-top: 5% !important;
+}
+
+.burger {
+	height: 100%;
+	padding-top: 20%;
+	background: url('bg.jpg') center 50%;
+}
