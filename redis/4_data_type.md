@@ -4,7 +4,7 @@
 
 !SLIDE bullets
 
-# keys
+# strings
 
 * like memcached
 * simple data
