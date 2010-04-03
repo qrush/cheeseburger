@@ -33,7 +33,16 @@
 * node.js
 * ...
 
-!SLIDE bullets incremental
+!SLIDE bullets
+
+# memory
+
+* keys, values
+* keys must stay in memory
+* values can be swapped
+* really stable
+
+!SLIDE bullets
 
 # speed
 

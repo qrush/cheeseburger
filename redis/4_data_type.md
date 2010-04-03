@@ -55,7 +55,6 @@
 * length
 * random access
 * ranges
-* blocking pop
 
 !SLIDE code
 
@@ -157,14 +156,3 @@
     2. burger
     3. john
     4. fries
-
-!SLIDE bullets
-
-# misc
-
-* type
-* sort
-* monitor
-* multi/exec
-* flushdb/all
-* randomkey
